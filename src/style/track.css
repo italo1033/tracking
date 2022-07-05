@@ -1,0 +1,13 @@
+li { list-style-type: none; }
+
+.ContainerTracking{ background-color: #fff; width: 450px; }
+
+h1 { color: #fff; }
+label{ color: #8229ff; }
+
+.TrackGeral{
+    background-color: #8229ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
