@@ -1,8 +1,14 @@
-
+import React, { useState } from "react";
+import Main from "./components/main";
+import SharingDate from "./components/sharingDate";
 function App() {
+    
   return (
-    <h1>ola</h1>
+    <>
+    <SharingDate />
+    </>
   );
+
 }
 
 export default App;
